@@ -7,6 +7,8 @@ public class Lab3Exercises {
 		myFrame.setTitle("Christopher");
 		myFrame.setLocation(900, 349);
 		myFrame.setSize(200, 200);
+        MyPanelClass myPanel = new MyPanelClass();
+        myFrame.getContentPane().add(myPanel);
 		myFrame.setVisible(true);
 	}
 }
