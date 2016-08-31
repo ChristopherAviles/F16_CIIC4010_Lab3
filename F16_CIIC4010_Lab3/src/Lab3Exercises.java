@@ -5,7 +5,7 @@ public class Lab3Exercises {
 		JFrame myFrame = new JFrame("Hello, world!");
 		myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		myFrame.setTitle("Christopher");
-		myFrame.setLocation(900, 350);
+		myFrame.setLocation(900, 349);
 		myFrame.setSize(200, 200);
 		myFrame.setVisible(true);
 	}
